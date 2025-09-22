@@ -1,0 +1,13 @@
+{
+  "name": "email-countdown",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "true"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.56",
+    "luxon": "3.5.0"
+  }
+}
